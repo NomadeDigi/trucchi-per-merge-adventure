@@ -1,6 +1,6 @@
 // notifier.js
 // Simple browser notification manager with fallback to console log
-// Author: [TuoNome] - Educational purposes only
+// Author: NomadeDigi - Educational purposes only
 
 class Notifier {
   static isSupported() {
